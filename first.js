@@ -21,8 +21,6 @@ else{
 let test2=prompt("enter the name:","");
 console.log(`name is ${test2}`);
 
-const a=2;
-const b=2;
 console.log(a**b);
 
 let n=5;
@@ -36,16 +34,10 @@ let counter=1;
 ++counter;
 alert(counter);
 
-let a = 1, b = 1;
-
 let c = ++a; // ?
 let d = b++; // ?
 console.log(c);
 console.log(d);
-
-const a=20;
-const b=43;
-
 console.log((a>b  ? 'true':'false'));
 
 let age=prompt("enter your age:","");
